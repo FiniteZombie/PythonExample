@@ -1,0 +1,3 @@
+def Example:
+	print("stuff")
+	
