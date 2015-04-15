@@ -1,3 +1,6 @@
 def Example:
-	print("stuff")
+	print("Hello World")
+	
+def Foo:
+	print("Foo")
 	
